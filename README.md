@@ -2,7 +2,7 @@
 ### Project Description
 Goal: To solve two main issues in credit card fraud detection - skewness of the data and cost-sensitivity
 
-•	Applied Logistic Regression, Decision Tree, Random Forest and **Ensemble Learning** Methods with hyper-parameter tuning on under-sampled and oversampled dataset, and improved performance by 25% 
+•	Applied Logistic Regression, Decision Tree, Random Forest and **Ensemble Learning** Methods with hyper-parameter tuning on **under-sampled and oversampled dataset**, and improved performance by 25% 
 
 •	Built Bayesian Minimum Risk models with fixed cost and real financial cost separately (**Cost-Sensitive Learning**), and improved performance by 35%
 ### Data
